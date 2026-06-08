@@ -1,22 +1,2 @@
 ### Hi, I'm Samra 👋
 
-- 🔭 I’m currently working on switching careers to become a software engineer
-- 🌱 I have completed a 12-week intensive Software Engineering bootcamp with Bright Network Technology Academy
-- 🧠 I’m a psychology graduate with a passion for mental health and well-being 
-- 👯 I’m looking to collaborate on projects that will allow me to develop innovative solutions whilst also assisting with my professional growth
-- 💻 Tech Stack:
-  - Java
-  - JavaScript
-  - Spring/SpringBoot
-  - PostgreSQL
-  - SQL
-  - HTML
-  - CSS
-  - React.js
-  - Node.js
-  - Jest
-  - Git
-  - Github
-- 📫 How to reach me: ...
-  - Email: samraafzaal24@gmail.com
-  - LinkedIn: Samra Afzaal
